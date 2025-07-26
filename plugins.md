@@ -44,6 +44,52 @@ url = https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.cod
 
 Git Graph is one of those extensions which you definitely need of you don't want to pay for GitLens and other similar extensions. I use it because it's completely free and provides all of the useful insights about your git repo. It's a near perfect git extension.
 
+## 6. Markdownlint #
+I write blogs, and so markdownlint is a useful extension for me as I write my posts in markdown. It's a decent extension allowing me to properly structure content inside a markdown file.
 
+```bash
+url = https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
+
+
+## 7. Auto Rename Tag #
+I only listed this extension to let you know that the functionality of Auto Rename Tag is now built in to VSCode. To turn on this feature, simply set the editor.linkedEditing key to true in your settings.json file.
+
+```bash
+
+url = https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+
+```
+
+## 8. SQL Tools #
+
+I use SQL Tools (a database management extension) only when I don't want to go outside of my editor to query a database and to perform simple operations and lookups. It allows me to connect to a specific database from within my editor but keep in mind that you need to install driver extensions separately in order to connect to a database.
+
+I don't recommend this extension for complex use cases. In that case, you can look for a standalone database management tool like pgAdmin or DBeaver.
+
+
+
+## 8 Html and Css autocomplitions
+
+HTML to CSS completion suggestions
+Default settings are set to html/php >> css/scss/less/sass/stylus flow.
+To change file types you want to get selectors from use HTML to CSS autocompletion extension configuration from command palette or VSCode user settings.
+
+```bash
+url = https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion
+```
+
+## 10 Server Live
+[Wanna try LIVE SERVER++ (BETA) ? It'll enable live changes without saving file. https://github.com/ritwickdey/vscode-live-server-plus-plus ]
+
+
+```bash
+url = https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+```
+
+## 11 Rose Pine theme color
+
+```bash
+url = https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine
+```
 
 
